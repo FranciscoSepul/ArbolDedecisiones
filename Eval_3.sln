@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Eval_3_Arboles_Decision", "Eval_3\Eval_3_Arboles_Decision.dwproj", "{A22067AA-42B9-4BF2-80EB-5FF1EAD20A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22067AA-42B9-4BF2-80EB-5FF1EAD20A85}.Development|Default.ActiveCfg = Development
+		{A22067AA-42B9-4BF2-80EB-5FF1EAD20A85}.Development|Default.Build.0 = Development
+		{A22067AA-42B9-4BF2-80EB-5FF1EAD20A85}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE81CBE-9F19-4DAD-972A-CB2B483EB487}
+	EndGlobalSection
+EndGlobal
